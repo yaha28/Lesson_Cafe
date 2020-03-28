@@ -262,4 +262,7 @@ footer p{
     .post-cat{
         margin-left: 80px;
     }
+    .ad{
+        display: none;
+    }
 }
